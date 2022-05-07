@@ -36,25 +36,21 @@ It is a Binary Classification Problem. The tools used are:
 ​
 
 **Random Forest** Classifier:
-
 ​
 > Accuracy Reached: **95.74%**
 
 ​
 **XG Boost** Classifier:
-
 ​
 > Accuracy Reached: **93.17%**
 ​
 
 **Light Gradient Boosting**:
-
 ​
 > Accuracy Reached: **91.10%**
 ​
 
 **Cat Boost** classifier:
-
 ​
 > Accuracy Reached: **95.74%**
 
